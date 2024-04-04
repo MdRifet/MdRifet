@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 Link: https://github.com/MdRifet/MdRifet/edit/main/README.md
-icons/HTML.svg
+![image](https://github.com/MdRifet/MdRifet/assets/164423785/99417624-dfe9-4234-b20e-2ef94edc2821)
+
