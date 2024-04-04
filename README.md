@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 Link: https://github.com/MdRifet/MdRifet/edit/main/README.md
-![image](https://github.com/MdRifet/MdRifet/assets/164423785/99417624-dfe9-4234-b20e-2ef94edc2821)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
